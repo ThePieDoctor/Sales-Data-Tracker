@@ -1,6 +1,6 @@
 # Overview
 
-{Important! Do not say in this section that this is college assignment. Talk about what you are trying to accomplish as a software engineer to further your learning.}
+This is my Sales Data Tracker written in C#. I made this program to stretch my knowledge of coding and to increase my C# coding abilities
 
 My Sales Data Tracker program allows the user to read, write, save, and load onto a seperate file to record and keep track of their own daily sales. The software keeps track of your goal and will show the recommended hours to work per day, sales averages, and more. This will be a useful tool for myself as I work on becoming a better salesman.
 
@@ -16,14 +16,11 @@ I am designing this software because I am a door to door salesman. I want to be 
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-
 - [W3 Schools](https://www.w3schools.com/cs/cs_examples.php) [^1]
 - [Stack Overflow](https://stackoverflow.com/)
+- [Markdown Guide](https://www.markdownguide.org/cheat-sheet/)
 
 # Future Work
-
-{Make a list of things that you need to fix, improve, and add in the future.}
 
 - A more user friendly UI
 - More data collection to record daily pitches, doors knocked, and decision makers talked to as well.

@@ -49,7 +49,7 @@ namespace SalesTracker
             Console.Write("Enter total number of working/knocking days: ");
             int.TryParse(Console.ReadLine(), out int totalDays);
 
-            // Store goal metadata on line 1, column headers on line 2
+            // Store goal on line 1, column headers on line 2
             using (StreamWriter sw = new StreamWriter(fileName, false))
             {
                 sw.WriteLine($"#GOAL,{targetSales},{totalDays}");
@@ -77,7 +77,6 @@ namespace SalesTracker
             int.TryParse(Console.ReadLine(), out int sales);
             // Get current date for the log entry
             string dateStr = DateTime.Now.ToString("yyyy-MM-dd");
-
             // Append daily record
             using (StreamWriter sw = new StreamWriter(fileName, true))
             {
@@ -143,7 +142,7 @@ namespace SalesTracker
             // Required sales per day calculations
             double requiredSalesPerDay = remainingDays > 0 ? (double)remainingSales / remainingDays : remainingSales;
 
-            // Dynamic Hours Estimator: RemainingSales / (RemainingDays * SalesPerHour)
+            // Dynamic Hours Estimator
             double recommendedHoursDaily = 0.0;
             if (remainingDays > 0 && rollingSalesPerHour > 0)
             {

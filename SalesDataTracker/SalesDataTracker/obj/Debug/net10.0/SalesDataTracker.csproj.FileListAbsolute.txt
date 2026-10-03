@@ -1,0 +1,15 @@
+C:\Users\ThePieDoctor\OneDrive\FALL 2026\CSE 310\S1 Sales Data Tracker\SalesDataTracker\SalesDataTracker\bin\Debug\net10.0\SalesDataTracker.exe
+C:\Users\ThePieDoctor\OneDrive\FALL 2026\CSE 310\S1 Sales Data Tracker\SalesDataTracker\SalesDataTracker\bin\Debug\net10.0\SalesDataTracker.deps.json
+C:\Users\ThePieDoctor\OneDrive\FALL 2026\CSE 310\S1 Sales Data Tracker\SalesDataTracker\SalesDataTracker\bin\Debug\net10.0\SalesDataTracker.runtimeconfig.json
+C:\Users\ThePieDoctor\OneDrive\FALL 2026\CSE 310\S1 Sales Data Tracker\SalesDataTracker\SalesDataTracker\bin\Debug\net10.0\SalesDataTracker.dll
+C:\Users\ThePieDoctor\OneDrive\FALL 2026\CSE 310\S1 Sales Data Tracker\SalesDataTracker\SalesDataTracker\bin\Debug\net10.0\SalesDataTracker.pdb
+C:\Users\ThePieDoctor\OneDrive\FALL 2026\CSE 310\S1 Sales Data Tracker\SalesDataTracker\SalesDataTracker\obj\Debug\net10.0\SalesDataTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ThePieDoctor\OneDrive\FALL 2026\CSE 310\S1 Sales Data Tracker\SalesDataTracker\SalesDataTracker\obj\Debug\net10.0\SalesDataTracker.AssemblyInfoInputs.cache
+C:\Users\ThePieDoctor\OneDrive\FALL 2026\CSE 310\S1 Sales Data Tracker\SalesDataTracker\SalesDataTracker\obj\Debug\net10.0\SalesDataTracker.AssemblyInfo.cs
+C:\Users\ThePieDoctor\OneDrive\FALL 2026\CSE 310\S1 Sales Data Tracker\SalesDataTracker\SalesDataTracker\obj\Debug\net10.0\SalesDataTracker.csproj.CoreCompileInputs.cache
+C:\Users\ThePieDoctor\OneDrive\FALL 2026\CSE 310\S1 Sales Data Tracker\SalesDataTracker\SalesDataTracker\obj\Debug\net10.0\SalesDataTracker.sourcelink.json
+C:\Users\ThePieDoctor\OneDrive\FALL 2026\CSE 310\S1 Sales Data Tracker\SalesDataTracker\SalesDataTracker\obj\Debug\net10.0\SalesDataTracker.dll
+C:\Users\ThePieDoctor\OneDrive\FALL 2026\CSE 310\S1 Sales Data Tracker\SalesDataTracker\SalesDataTracker\obj\Debug\net10.0\refint\SalesDataTracker.dll
+C:\Users\ThePieDoctor\OneDrive\FALL 2026\CSE 310\S1 Sales Data Tracker\SalesDataTracker\SalesDataTracker\obj\Debug\net10.0\SalesDataTracker.pdb
+C:\Users\ThePieDoctor\OneDrive\FALL 2026\CSE 310\S1 Sales Data Tracker\SalesDataTracker\SalesDataTracker\obj\Debug\net10.0\SalesDataTracker.genruntimeconfig.cache
+C:\Users\ThePieDoctor\OneDrive\FALL 2026\CSE 310\S1 Sales Data Tracker\SalesDataTracker\SalesDataTracker\obj\Debug\net10.0\ref\SalesDataTracker.dll
