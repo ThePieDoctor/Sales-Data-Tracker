@@ -39,7 +39,7 @@ namespace SalesTracker
         // Creates a new save file with user's goals and working days
         static void CreateNewSaveFile()
         {
-            Console.Write("\nEnter file name (e.g., summer_goal.csv): ");
+            Console.Write("\nNew file name: (e.g., summer_goal.csv): ");
             string fileName = Console.ReadLine()?.Trim() ?? "sales_data.csv";
             if (!fileName.EndsWith(".csv")) fileName += ".csv";
 

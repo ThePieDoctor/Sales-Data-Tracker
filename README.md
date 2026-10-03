@@ -6,7 +6,7 @@ My Sales Data Tracker program allows the user to read, write, save, and load ont
 
 I am designing this software because I am a door to door salesman. I want to be able to better keep track of my progress and make sure I am alligned with my goals.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/0I-JS4_6k6Q)
 
 # Development Environment
 
