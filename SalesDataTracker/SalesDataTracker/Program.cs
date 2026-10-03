@@ -30,7 +30,7 @@ namespace SalesTracker
                     case "2": LogDailyEntry(); break;
                     case "3": ViewAnalytics(); break;
                     case "4": running = false; break;
-                    default: Console.WriteLine("Invalid option. Please try again."); break;
+                    default: Console.WriteLine("\nInvalid option. Please try again."); break;
                 }
             }
             Console.WriteLine("Go crush those goals!");
